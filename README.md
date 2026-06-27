@@ -1,2 +1,0 @@
-# NewWebGoal
-Web Goal.
